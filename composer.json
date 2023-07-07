@@ -1,0 +1,28 @@
+{
+    "name": "saifur/filemanager",
+    "description": "This a package all about log viewer",
+    "authors": [
+        {
+            "name": "Mohamed Saifur Rahman",
+            "email": "saifur.rahman1193@gmail.com",
+            "homepage": "https://saifurrahman.my.canva.site/",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "keywords": [
+        "filemanager",
+        "laravel"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Saifur\\FileManager\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3.11|^8.0",
+        "illuminate/support": "^8.0"
+    }
+
+}
