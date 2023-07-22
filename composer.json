@@ -1,6 +1,6 @@
 {
     "name": "saifur/filemanager",
-    "description": "This a package all about log viewer",
+    "description": "This a package all about file manager",
     "authors": [
         {
             "name": "Mohamed Saifur Rahman",
@@ -10,6 +10,7 @@
         }
     ],
     "license": "MIT",
+    "homepage": "https://github.com/saifurrahman1193/saifur-filemanager",
     "keywords": [
         "filemanager",
         "laravel"
@@ -23,6 +24,9 @@
     "require": {
         "php": "^7.3.11|^8.0",
         "illuminate/support": "^8.0"
+    },
+    "suggest": {
+
     }
 
 }
